@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ORMLiteDemo</string>
+    <string name="note">小慕笔记</string>
+    <string name="checknote">编辑笔记</string>
+    <string name="note_title">请输入标题</string>
+    <string name="note_content">请输入内容</string>
+</resources>
